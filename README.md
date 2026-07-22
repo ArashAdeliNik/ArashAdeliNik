@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Arash Adeli 👋
 
-<!--
-**ArashAdeliNik/ArashAdeliNik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on Data Science, AI Automation, Machine Learning and LLM Applications.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building AI Business Solutions
+- Retrieval-Augmented Generation (RAG)
+- AI Automation
+- Machine Learning
+- Data Science
+
+## 🛠 Tech Stack
+
+- Python
+- FastAPI
+- SQL
+- PostgreSQL
+- Streamlit
+- LangChain
+- Docker
+- Git
+- GitHub
+
+## 📌 Current Projects
+
+- Company Brain AI
+- Smart PDF Assistant
+- AI Sales Agent
+
+---
+
+Building AI products that solve real business problems.
